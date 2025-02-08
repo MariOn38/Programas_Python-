@@ -1,0 +1,10 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES
+=================================
+Autor: Mariana Rodriguez
+Fecha: 2025-01-19
+Resultados:
+20:40 Creacion de Log
+21:28 Creacion de pares.py
+20:07 Creacion de histograma.py
+21:45 Creación de res_estadistico.py
+21:50 Creación de primos.py
